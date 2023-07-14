@@ -19,8 +19,4 @@ function findFirstNonRepeatedChar() {
 }
 
 const result = findFirstNonRepeatedChar();
-if (result) {
-  alert(result);
-} else {
-  alert();
-}
+alert(result);
